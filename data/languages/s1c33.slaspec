@@ -74,7 +74,7 @@ define token op_unit (16)
 	
 	ext0sign13 = (0, 12) signed
 	ext1sign13 = (0, 12) signed
-	ext1sign10 = (0, 9) signed
+	ext1sign10 = (3, 12) signed
 
 	imm10 = (0, 9)
 	imm8 = (0, 7)
